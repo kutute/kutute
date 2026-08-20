@@ -1,9 +1,7 @@
-### Привет, я kutute 👋
+### Hi im kutute
 
-![Header](https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![Header](https://shikimori.io/system/user_images_h/original/9a6373904f9f369c3dc7676c/2ce399d3eab26ff8fb8f9ef5a830ab218f90cbda19110ed62220c5fe1bfff69d.jpg)
 
-### Обо мне
-Я начинающий разработчик на языке C. Только начал свой путь в IT и учусь основам программирования.
 
 ### 🛠 Мои навыки
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
