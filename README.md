@@ -8,6 +8,8 @@ I’m 15 years old, I’m a beginner backend developer, and I have skills in cyb
 ### My stats
 ![](https://github-readme-stats.shion.dev/api?username=kutute&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=kutute&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kutute&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=anuraghazra)](https://github.com/psiyavush/github-stats)
+
 
 ### My core
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go)
