@@ -10,6 +10,10 @@ I’m 15 years old, I’m a beginner backend developer, and I have skills in cyb
 
 [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=anuraghazra)](https://github.com/psiyavush/github-stats)
 
+![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ### My core
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go)
